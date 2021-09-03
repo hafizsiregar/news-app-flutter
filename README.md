@@ -1,4 +1,4 @@
-# news_app_dicoding
+# news_app
 
 A new Flutter project.
 
